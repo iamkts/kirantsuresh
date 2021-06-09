@@ -7,9 +7,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about editing related stuff.
 <h3 align="center">Iam a Designer & Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-019&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-019" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirantsuresh&label=Profile%20views&color=0e75b6&style=flat" alt="kirantsuresh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamkirants" target="blank"><img src="https://img.shields.io/twitter/follow/iamkirants?logo=twitter&style=for-the-badge" alt="iamkirants" /></a> </p>
+
 
 - 📫 How to reach me **kirantsuresh25@gmail.com**
 
@@ -21,6 +22,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/k___t__s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@k___t__s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCQzXYe6mZgy3A23KyVzffdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ktseditoropedia" height="30" width="40" /></a>
 </p>
-
 <img src="https://github-readme-stats.vercel.app/api?username=kirantsuresh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
