@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web designing.
 - 👯 I’m looking to collaborate on youtube.
 - 💬 Ask me about editing related stuff.
-<h3 align="center">Iam a Designer & Computer Engineer</h3>
+<h3 align="center">Iam a Designer & Front-End-Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirantsuresh&label=Profile%20views&color=0e75b6&style=flat" alt="kirantsuresh" /> </p>
 
