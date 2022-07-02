@@ -2,7 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning web designing,crypto and blockchain
+- 🌱 I’m currently learning 
+- - web designing 
+- - crypto
+- - blockchain
 - 👯 I’m looking to collaborate on youtube.
 - 💬 Ask me about editing related stuff.
 <h3 align="center">Iam a Designer & Front-End-Developer</h3>
